@@ -1,0 +1,27 @@
+{
+  "name": "table_creation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.21",
+    "@mui/styles": "^5.15.21",
+    "classnames": "^2.5.1",
+    "fast-sort": "^3.4.0",
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "sort-by": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4"
+  }
+}
